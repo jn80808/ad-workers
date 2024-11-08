@@ -1,0 +1,53 @@
+11/06/2024
+TODO! = 
+cursor 
+cloudflare with hellow word 
+cursor - shortcut in chatagent 
+chat - gmail 
+cloudflare - end 
+working - hours 
+mysql -> LLMS 
+
+11/07/2024
+cursor command :
+ctrl + i = files 
+ctrl + k = AI MESSAGE 
+ctrl + L = Chat 
+
+
+cloudFlare Domain:
+HelloWorld.com
+
+GitHub Domain:
+https://jn80808.github.io/ad-workers/
+
+CloudFlare Account dashboard:
+https://dash.cloudflare.com/95191ddfdd28319aba6916bcc068ed0f/helloworld.com/confirm-scanned-records
+
+cloudFlare Created Website 
+https://ad-workers.pages.dev/
+
+reference connect Repository to cloudFlare and Publish it to cloudFlare : 
+https://www.youtube.com/watch?v=O4jV8Zz2w9I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

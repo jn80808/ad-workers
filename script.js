@@ -53,6 +53,11 @@ function displayCountries(countries) {
 function createCountriesList() {
     const ul = document.createElement('ul');
     ul.id = 'countries-list';
-    document.body.appendChild(ul);
+    ul.classList.add('countries-list');
+
+    // Locate the container and insert the list inside it
+    const container = document.querySelector('.container');
+    container.appendChild(ul);
+
     return ul;
-} 
+}
